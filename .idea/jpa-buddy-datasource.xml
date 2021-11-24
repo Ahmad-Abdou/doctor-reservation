@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="d32d157c-febd-4e20-9216-dd8ae9ffd81a" name="Doctor-Reservation" url="jdbc:mysql://localhost/doctor_reservation?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="dbc0ccc0-4256-4168-87fc-8ca46a69a52f" name="Berlin" url="jdbc:mysql://doctor_reservation?autoReconnect=true&amp;useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=Europe/Berlin" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="07d62eb7-ab95-4ebd-919c-d11fa0389a02" name="Berlin2" url="jdbc:mysql://doctor_reservation?autoReconnect=true&amp;useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=Europe/Berlin" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
